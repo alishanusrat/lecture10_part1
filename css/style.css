@@ -1,0 +1,66 @@
+.header
+{
+  background-color: palegreen;
+  width:500px;
+  height:100px;
+}
+.wrapper
+{
+    width:500px;
+  height:100px;
+  overflow:hidden;
+}
+.box
+{
+  width:25%;
+  height:100px;
+  float:left;
+
+}
+.item1
+{
+
+background-color: chocolate;
+}
+.item2
+{
+background-color: orchid;
+}
+.item3
+{
+background-color: blue;
+}
+.item4
+{
+background-color: darkkhaki;
+}
+.header
+{
+  background-color: palegreen;
+  width:500px;
+  height:100px;
+}
+.footer
+{
+   background-color: green;
+  width:500px;
+  height:100px;
+}
+
+.out
+{
+  background-color: palegreen;
+  width:500px;
+  height:100px;
+  margin:20px;
+  display:flex;
+  align-items: center;
+}
+.in
+{ 
+margin:20px 50% 20px;
+padding:10px;
+  background-color: green;
+  text-align: center;
+  height:50px;
+}
